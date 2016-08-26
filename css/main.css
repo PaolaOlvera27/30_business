@@ -1,0 +1,54 @@
+* {
+	font-family: 'Allerta', sans-serif;
+}
+nav {
+	opacity: .5;
+}
+.bg-img {
+	background-image: url("../img/large.jpg");
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+}
+.pad-head {
+	margin:10% 0%;
+}
+.text-white, li a, h4, h4 small,footer {
+	color: white;
+}
+.text-blue {
+	color: #008DFF;
+}
+.text-gray {
+	color: gray;
+}
+.text-size {
+	font-size: 250%;
+}
+.bg-blue {
+	background-color: #008DFF;
+	opacity: .6;
+	padding: 3%;
+}
+.bg-gray {
+	background: #3A4449;
+	padding: 3% 0%;
+}
+.btn-white {
+	padding: 10px;
+	border-radius: 5%;
+	border: 2px solid white;
+}
+.icon1 {
+	font-size: 30px;
+	padding: 40px;
+	margin: 35px 0px;
+	border-radius: 100%;
+	border:.5px solid lightgray;
+}
+.icon2 {
+	font-size: 40px;
+	color: #008DFF;
+}
+.font-size {
+	font-size: 200%;
+}

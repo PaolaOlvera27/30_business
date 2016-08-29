@@ -27,7 +27,7 @@ textarea {
 .pad-head {
 	margin:10% 0%;
 }
-.text-white, li a {
+.text-white, li a, footer {
 	color: white;
 }
 .text-blue {
